@@ -1,7 +1,6 @@
 ![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
 > Javascript objects scopes and  closures
 
-![meme](./you-get-a-proto.jpeg)
 
 ## About
 JavaScript is a powerful language with many features, and some of its most important concepts include objects, closures, and scopes. Objects are one of the primary building blocks of JavaScript, and they allow you to store data and functions together in a single entity. Closures are another fundamental concept that allows functions to "remember" their surrounding state, even after they have been called and returned. Finally, scopes define the context in which variables and functions are accessible within your code, and understanding them is critical to writing efficient and effective JavaScript code. Together, these concepts form the backbone of the language and are essential for any developer looking to master JavaScript. Let's have a look at all of these confusing javascript principles in detail, and get lost in the callback hell ... prototype chain.
